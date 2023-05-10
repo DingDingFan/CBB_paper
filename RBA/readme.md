@@ -24,4 +24,5 @@ python 00.solver.rba.1mml.fru.py /home/wuliu/database/wuliu.notebook/wuliu/RBA/e
 python 00.solver.rba.1mml.fru.py /home/wuliu/database/wuliu.notebook/wuliu/RBA/example_model/Bacterial-RBA-models/Ralstonia-eutropha-H16/model.oil.kapp/  0.8  > cbb.step/O_0.8.log
 python 00.solver.rba.1mml.fru.py /home/wuliu/database/wuliu.notebook/wuliu/RBA/example_model/Bacterial-RBA-models/Ralstonia-eutropha-H16/model.oil.kapp/  0.9  > cbb.step/O_0.9.log
 
+```
 
