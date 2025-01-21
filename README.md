@@ -1,4 +1,4 @@
-# CBB Paper: Harnessing CO2 Fixation and Reducing Power Recycling for Enhanced PHA Industrial Bioproduction
+# "Harnessing CO2 Fixation and Reducing Power Recycling for Enhanced PHA Industrial Bioproduction"  data and scripts
 
 This repository contains the code and data supporting the paper titled **"Harnessing CO2 Fixation and Reducing Power Recycling for Enhanced PHA Industrial Bioproduction"**. The study investigates the impact of the Calvin-Benson-Bassham (CBB) cycle on biomass and polyhydroxyalkanoates (PHA) production.
 
